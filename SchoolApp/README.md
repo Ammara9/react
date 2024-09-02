@@ -51,3 +51,6 @@ QuizResult.jsx: Displays a modal showing the quiz results, which are saved to Fi
 
 ## Data Visualization
 Graph Components: Three JS-based graphs (Global Temperature, Sea Level, Glaciers) are created and displayed within their respective components to visually represent the data.
+
+### Digital Prototype link: Figma
+https://www.figma.com/file/cZxBC4r3YraBsDtpqB4IjC/Prototyp?type=design&node-id=0-1&mode=design 
