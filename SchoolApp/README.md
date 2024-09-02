@@ -1,7 +1,7 @@
 
 # Project Overview
 
-This project is a comprehensive web application built with React, leveraging several modern libraries and services to create a user-friendly and interactive experience. The application focuses on user authentication, profile management, and educational content related to global environmental issues. It also includes a quiz feature that enhances user engagement. Below is a detailed breakdown of the components, libraries, and functionalities that make up the project.
+This project is a comprehensive web application built with React.js, Bootstrap and Firebase leveraging several modern libraries and services to create a user-friendly and interactive experience. The application focuses on user authentication, profile management, and educational content related to global environmental issues. It also includes a quiz feature that enhances user engagement. Below is a detailed breakdown of the components, libraries, and functionalities that make up the project.
 
 ## Key Packages and Libraries Used
 @fortawesome/free-solid-svg-icons@^6.5.1: Provides a collection of solid icons for use throughout the application.
