@@ -1,0 +1,146 @@
+[
+    {
+        "course": [
+            7,
+            4,
+            3
+        ],
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Hur kan vi se att klimatförändringarna påverkar vår planet?",
+        "correct_answer": "Ökad global temperatur",
+        "incorrect_answers": [
+            "Mindre koldioxid i luften",
+            "Större glaciärer",
+            "Minskad havsnivå"
+        ]
+    },
+    {
+        "course": [
+            4,
+            3
+        ],
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Vad händer med markytan när havsnivån stiger?",
+        "correct_answer": "Markytan blir mindre",
+        "incorrect_answers": [
+            "Markytan blir större",
+            "Markytan påverkas inte",
+            "Markytan förblir samma som innan"
+        ]
+    },
+    {
+        "course": [
+            4,
+            3
+        ],
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Vad händer när glaciärerna på jorden smälter?",
+        "correct_answer": " Havsnivän stiger ",
+        "incorrect_answers": [
+            " Det regnar mer ",
+            " Havsnivån sjunker ",
+            " Det regnar mindre "
+        ]
+    },
+    {
+        "course": [
+            7
+        ],
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": " Hur mäts den globala temperaturen? ",
+        "correct_answer": " Med en termometer ",
+        "incorrect_answers": [
+            " Med en hygrometer ",
+            " Med en anemometer ",
+            " Med en barometer "
+        ]
+    },
+    {
+        "course": [
+            7
+        ],
+        "type": "boolean",
+        "difficulty": "medium",
+        "question": " Vilket land är mest påverkat av att havsnivån stiger? ",
+        "correct_answer": " Maldiverna ",
+        "incorrect_answers": [
+            " Brasilien ",
+            " Thailand ",
+            " Egypten "
+        ]
+    },
+    {
+        "course": [
+            7
+        ],
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": " Hur många glaciärer fanns det i Sverige på 80-talet? ",
+        "correct_answer": "250 ",
+        "incorrect_answers": [
+            "50",
+            "100",
+            "175"
+        ]
+    },
+    {
+        "course": [
+            7
+        ],
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": " Vad är en glaciär? ",
+        "correct_answer": " Is och snö hårt packad, kan förflytta sig själva ",
+        "incorrect_answers": [
+            " Stora is block ",
+            " Skräp som flyter runt ",
+            " Snö som har lagt sig på vattnet "
+        ]
+    },
+    {
+        "course": [
+            7
+        ],
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Hur påverkas ekosystemen av stigande temperaturer?",
+        "correct_answer": "Negativt",
+        "incorrect_answers": [
+            "Positivt",
+            "Ekosystemen påverkas inte",
+            "Endast vattenekosystem påverkas"
+        ]
+    },
+    {
+        "course": [
+            7
+        ],
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Varför stiger havsnivån?",
+        "correct_answer": "Havet utvidgas och glaciärer smälter",
+        "incorrect_answers": [
+            "Vatten från sjöar kommer ut i havet",
+            "Fartyg tränger upp havsnivån",
+            "Det regnar mer"
+        ]
+    },
+    {
+        "course": [
+            7
+        ],
+        "type": "boolean",
+        "difficulty": "hard",
+        "question": "Vad är den största orsaken till att koldioxidhalten ökar atmosfären?",
+        "correct_answer": "Förbränning av fossila bränslen",
+        "incorrect_answers": [
+            "Vulkanutbrott",
+            "Stigande temperaturer",
+            "Ökad skogsavverkning"
+        ]
+    }
+]

@@ -1,0 +1,166 @@
+[
+    {
+        "Mean": -0.1148,
+        "Source": "GCAG",
+        "Year": 1880
+    },
+    {
+        "Mean": -0.2,
+        "Source": "GISTEMP",
+        "Year": 1880
+    },
+   
+    {
+        "Mean": -0.322,
+        "Source": "GCAG",
+        "Year": 1890
+    },
+    {
+        "Mean": -0.37,
+        "Source": "GISTEMP",
+        "Year": 1890
+    },
+    
+    {
+        "Mean": -0.0679,
+        "Source": "GCAG",
+        "Year": 1900
+    },
+    {
+        "Mean": -0.09,
+        "Source": "GISTEMP",
+        "Year": 1900
+    },
+    
+    {
+        "Mean": -0.3789,
+        "Source": "GCAG",
+        "Year": 1910
+    },
+    {
+        "Mean": -0.42,
+        "Source": "GISTEMP",
+        "Year": 1910
+    },
+    
+    {
+        "Mean": -0.2105,
+        "Source": "GCAG",
+        "Year": 1920
+    },
+    {
+        "Mean": -0.27,
+        "Source": "GISTEMP",
+        "Year": 1920
+    },
+   
+    {
+        "Mean": -0.1003,
+        "Source": "GCAG",
+        "Year": 1930
+    },
+    {
+        "Mean": -0.15,
+        "Source": "GISTEMP",
+        "Year": 1930
+    },
+   
+    {
+        "Mean": 0.0947,
+        "Source": "GCAG",
+        "Year": 1940
+    },
+    {
+        "Mean": 0.08,
+        "Source": "GISTEMP",
+        "Year": 1940
+    },
+   
+    {
+        "Mean": -0.1616,
+        "Source": "GCAG",
+        "Year": 1950
+    },
+    {
+        "Mean": -0.18,
+        "Source": "GISTEMP",
+        "Year": 1950
+    },
+   
+    {
+        "Mean": 0.0204,
+        "Source": "GCAG",
+        "Year": 1960
+    },
+    {
+        "Mean": -0.02,
+        "Source": "GISTEMP",
+        "Year": 1960
+    },
+   
+    {
+        "Mean": 0.0372,
+        "Source": "GCAG",
+        "Year": 1970
+    },
+    {
+        "Mean": 0.02,
+        "Source": "GISTEMP",
+        "Year": 1970
+    },
+    
+    {
+        "Mean": 0.2637,
+        "Source": "GCAG",
+        "Year": 1980
+    },
+    {
+        "Mean": 0.27,
+        "Source": "GISTEMP",
+        "Year": 1980
+    },
+   
+    {
+        "Mean": 0.4328,
+        "Source": "GCAG",
+        "Year": 1990
+    },
+    {
+        "Mean": 0.44,
+        "Source": "GISTEMP",
+        "Year": 1990
+    },
+    
+    {
+        "Mean": 0.4262,
+        "Source": "GCAG",
+        "Year": 2000
+    },
+    {
+        "Mean": 0.42,
+        "Source": "GISTEMP",
+        "Year": 2000
+    },
+   
+    {
+        "Mean": 0.7014,
+        "Source": "GCAG",
+        "Year": 2010
+    },
+    {
+        "Mean": 0.71,
+        "Source": "GISTEMP",
+        "Year": 2010
+    },
+   
+    {
+        "Mean": 0.9363,
+        "Source": "GCAG",
+        "Year": 2016
+    },
+    {
+        "Mean": 0.99,
+        "Source": "GISTEMP",
+        "Year": 2016
+    }
+]

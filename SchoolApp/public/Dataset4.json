@@ -1,0 +1,85 @@
+[
+    {
+        "GMSL": -158.7,
+        "GMSL uncertainty": 24.2,
+        "Time": "1880-03-15"
+    },
+   
+    {
+        "GMSL": -147.5,
+        "GMSL uncertainty": 20.7,
+        "Time": "1890-03-15"
+    },
+   
+    {
+        "GMSL": -130.1,
+        "GMSL uncertainty": 18.3,
+        "Time": "1900-03-15"
+    },
+    
+    {
+        "GMSL": -126.4,
+        "GMSL uncertainty": 14.6,
+        "Time": "1910-03-15"
+    },
+   
+    {
+        "GMSL": -110.3,
+        "GMSL uncertainty": 13.0,
+        "Time": "1920-03-15"
+    },
+    
+    {
+        "GMSL": -106.3,
+        "GMSL uncertainty": 12.0,
+        "Time": "1930-03-15"
+    },
+    
+    {
+        "GMSL": -92.2,
+        "GMSL uncertainty": 11.1,
+        "Time": "1940-03-15"
+    },
+    
+    {
+        "GMSL": -67.3,
+        "GMSL uncertainty": 7.9,
+        "Time": "1950-03-15"
+    },
+    
+    {
+        "GMSL": -44.3,
+        "GMSL uncertainty": 6.6,
+        "Time": "1960-03-15"
+    },
+   
+    {
+        "GMSL": -39.9,
+        "GMSL uncertainty": 7.0,
+        "Time": "1970-03-15"
+    },
+    
+    {
+        "GMSL": -16.5,
+        "GMSL uncertainty": 6.5,
+        "Time": "1980-03-15"
+    },
+    
+    {
+        "GMSL": 20.5,
+        "GMSL uncertainty": 6.8,
+        "Time": "2000-03-15"
+    },
+    
+    {
+        "GMSL": 65.7,
+        "GMSL uncertainty": 7.1,
+        "Time": "2010-03-15"
+    },
+    
+    {
+        "GMSL": 67.7,
+        "GMSL uncertainty": 8.9,
+        "Time": "2013-03-15"
+    }
+]

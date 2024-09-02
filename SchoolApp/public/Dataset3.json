@@ -1,0 +1,49 @@
+[
+    {
+        "Mean cumulative mass balance": 0.0,
+        "Number of observations": null,
+        "Year": 1945
+    },
+    
+    {
+        "Mean cumulative mass balance": -6.575,
+        "Number of observations": 7.0,
+        "Year": 1955
+    },
+    
+    {
+        "Mean cumulative mass balance": -9.298,
+        "Number of observations": 24.0,
+        "Year": 1965
+    },
+    
+    {
+        "Mean cumulative mass balance": -10.534,
+        "Number of observations": 33.0,
+        "Year": 1975
+    },
+    
+    {
+        "Mean cumulative mass balance": -12.238,
+        "Number of observations": 37.0,
+        "Year": 1985
+    },
+    
+    {
+        "Mean cumulative mass balance": -15.486,
+        "Number of observations": 37.0,
+        "Year": 1995
+    },
+    
+    {
+        "Mean cumulative mass balance": -21.405,
+        "Number of observations": 37.0,
+        "Year": 2005
+    },
+    
+    {
+        "Mean cumulative mass balance": -28.652,
+        "Number of observations": 24.0,
+        "Year": 2014
+    }
+]
