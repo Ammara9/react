@@ -1,0 +1,30 @@
+
+  .bg-image{
+    background-image: url("./img/hotel.jpg");
+    height: 450px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size:cover; 
+    position: relative;
+    
+  }
+  .text-image { 
+  position: absolute;
+  top: 50%; 
+  left: 50%; 
+  transform: translate(-50%, -50%); 
+  background-color: #00000048; 
+  color: #fff; 
+  padding: 10px 20px; 
+  font-size: 30px; 
+  text-align: center;
+  
+}
+  .search-styled {
+    background-color: rgba(255, 162, 0, 0.879);
+    padding: 5px;
+    
+  }
+
+
+ 
