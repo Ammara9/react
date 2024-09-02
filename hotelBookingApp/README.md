@@ -1,70 +1,61 @@
-# Getting Started with Create React App
+# Quest Qisar Hotel - Project Overview
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Introduction
 
-## Available Scripts
+"Quest Qisar Hotel" is a responsive web application built using Create React App, designed to provide a seamless and intuitive user experience for hotel search and booking. The application has been meticulously developed with a well-organized component structure and integrates several external libraries to enhance functionality and user interface design. This document provides a detailed overview of the component architecture, the relationships between components, and the external packages used in the project.
 
-In the project directory, you can run:
+## Component Structure
 
-### `npm start`
+### App.js
+The `App.js` file serves as the central hub of the application. It imports and renders all other components, managing the routing using `React Router` (Switch, Route, Redirect). This ensures that navigation within the application is smooth and all links function correctly.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Navbar
+The `Navbar` component provides navigation links to various sections of the application, such as "About Us" and "All Hotels." It acts as the global header, visible on all pages, and is crucial for guiding users through the app. The "About Us" section offers insights into the company's history, philosophy, and team, while "All Hotels" provides an overview of available hotels on the homepage.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### Footer
+The `Footer` component is consistently displayed at the bottom of each page, offering contact information and other relevant details to assist users.
 
-### `npm test`
+### Content
+The `Content` component is the core of the application, displaying hotel information and various services, including booking options. Within this component, several subcomponents are responsible for different functionalities:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **HotelSearchBar**: Allows users to input search criteria such as destination, check-in and check-out dates, and the number of adults, children, and rooms. A search button triggers the search based on these parameters.
+- **HotelList**: Displays a list of five different hotels, including details such as name, country, family-friendly options, images, descriptions, and pricing.
+- **HotelDetails**: When users select a hotel from the list, they are redirected to a detailed view. This includes a photo gallery, additional hotel information, and subcomponents like "Restaurant" and "Taxi Booking," along with a button to complete the booking.
 
-### `npm run build`
+#### Additional Subcomponents
+- **Restaurant**: This component displays the weekly menu for the CantM restaurant.
+- **Taxi Booking**: Offers two taxi booking options, displaying prices and contact information.
+- **Message**: This component confirms the user's reservation once they click the "Book" button.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Component Tree
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+To better visualize how our components interact, here is the hierarchical structure of the application:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- App
+  - Navbar
+    - About Us
+    - All Hotels
+  - Content
+    - HotelSearchBar
+    - HotelList
+    - HotelDetails
+      - Restaurant
+      - Taxi Booking
+      - Message
+  - Footer
 
-### `npm run eject`
+## External Packages Used
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+To efficiently develop the React.js application, several external packages were integrated, each serving a specific purpose:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- **react-router-dom**: Manages navigation between different pages and sections of the application, ensuring a smooth user experience.
+- **react-bootstrap** and **bootstrap**: These packages enable the use of the Bootstrap framework for creating stylish and responsive UI elements.
+- **react-datepicker**: Implements a calendar for easy selection of check-in and check-out dates in the search bar.
+- **react-rating**: Allows users to rate hotels or services, which is valuable for expressing preferences and improving the user experience.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Conclusion
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+In developing the "Quest Qisar Hotel" React.js application, we have prioritized user-friendliness and functionality by implementing a clear component structure and integrating external packages to enhance our project. The application provides a versatile and informative experience for users, allowing them to search for hotels, explore services, and make bookings with ease. By following best practices and leveraging external packages, we have created a welcoming and functional environment for our users.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Digital Pritotype: Figma
+https://www.figma.com/proto/2ImU8g29A4hJTZDzp5c5oV/Projektgrupp-4?type=design&node-id=2-139&t=8VFNmrXhNtY1UgOQ-1&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=2%3A139 
